@@ -8,7 +8,7 @@ The notebook focuses on hands-on implementation and analysis of core machine lea
 > However, the **code logic, variable names, equations, and visual outputs follow standard machine learning conventions** and can be understood by non-Persian readers.
 
 ## File
-- `practical2_403201483.ipynb` — main notebook
+- `practical2.ipynb` — main notebook
 
 ## Overview
 This notebook emphasizes **practical understanding** of machine learning methods through direct implementation and experimentation.  
